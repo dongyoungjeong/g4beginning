@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+
+# Geant4 build files
+build/*
