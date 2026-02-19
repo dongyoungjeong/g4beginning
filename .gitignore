@@ -40,8 +40,11 @@
 # debug information files
 *.dwo
 
+# Geant4 build files
+build/*
+
 # macOS files
 .DS_Store
 
-# Geant4 build files
-build/*
+# vscode files
+.vscode/*
