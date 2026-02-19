@@ -40,5 +40,8 @@
 # debug information files
 *.dwo
 
+# macOS files
+.DS_Store
+
 # Geant4 build files
 build/*
