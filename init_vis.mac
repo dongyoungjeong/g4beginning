@@ -7,9 +7,4 @@
 
 /run/initialize
 
-# /control/execute vis.mac
-/vis/open OGL
-/vis/viewer/set/viewpointVector 1 1 1
-/vis/drawVolume
-/vis/viewer/set/autoRefresh true
-/vis/scene/add/trajectories smooth
+/control/execute vis.mac
